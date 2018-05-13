@@ -12,4 +12,3 @@ This is more of just "proof" that I have done the work to earn my certification 
 If you are also taking this course and need some help or don't understand something, please feel free to contact me
 on the discord channel. My discord is 'JayDinh#0891' <strong>Please be aware that discord usernames are CASE SENSITIVE</strong>
 </p>
-
