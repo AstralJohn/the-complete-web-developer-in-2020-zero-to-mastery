@@ -1,0 +1,15 @@
+/* selector {
+  property: value;
+} */
+
+h2 {
+  color: red;
+}
+
+p {
+  color: pink;
+}
+
+p {
+   color: green; /* because you are selecting p twice, the second one shows because it is 'cascading' */
+}
