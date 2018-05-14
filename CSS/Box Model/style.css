@@ -1,0 +1,22 @@
+/* selector {
+  property: value;
+} */
+
+/* I honestly would skip over this entire CSS lessson because I use the BEM
+methodology. Which I am fond of and love to use. But if you are new and reading this
+there is not much to compare from my code to Andrei's anyways. I suggest just going
+through his lessons and understanding the fundementals first. And maybe later
+when you come back, you can learn about BEM ;)  */
+
+h2 {
+  color: blue;
+}
+
+.boxmodel {
+  border: 5px solid red;
+  display: inline-block;
+  padding: 5px 20px;
+  margin: 0 20px;
+  width: 33px;
+  height: 55px;
+}
