@@ -1,7 +1,4 @@
-.btn-danger {
-  background-color: steelblue;
-}
-
-.btn-danger:hover {
-  background-color: firebrick;
+.col {
+  background-color: grey;
+  border: 2px solid black;
 }
