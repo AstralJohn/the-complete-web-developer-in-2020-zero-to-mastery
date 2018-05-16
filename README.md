@@ -4,7 +4,9 @@
 <li>I am taking 2 very in depth courses on JavaScript that go way beyond this course. And have already taken courses in the past that cover JavaScript better than Andrei could (in my opinion)</li>
     <li>Because of the first reason, relearning these basics are mind numbingly painful to go through again, and again for every "beginner to mastery" course I have.</li>
 </ol>
+
 <h2>If you have trouble with JavaScript, I can personally mentor you through it as it is my favorite language to learn and teach. Just shoot me a message on Discord and I would be more than happy to help</h2>
+<h3>PS. If I actually <em>do</em> happen to commit a JavaScript exercise from Andrei's course on here, please note that it is probably a <strong>VERY</strong> good thing to take note that you should know how to do it on your own beforehand, as it would probably be good practice for a beginner developer. I know I post only solutions on this repository but please refrain from using it as a crutch, but more of as a way to <strong>compare solutions</strong>. This is really important as it not only helps you think critically, but also really helps you improve and grow as a developer</h3>
 <h1>Welcome To My Udemy Course Journey</h1>
 
 <h2>The Complete Web Developer in 2018: Zero to Mastery</h2>
