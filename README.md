@@ -1,3 +1,6 @@
+<h4>Quick Update 5/17/18</h4>
+<h6>I personally didn't like the way Andrei teaches JavaScript, and I also wanted to learn ES6, so I am taking an entire seperate course on JavaScript called 'The Modern JavaScript Bootcamp (2018). <br> I actually really like the teaching style in this course and uploaded all the files and exercises we did on a seperate Repository called "js-bootcamp" This is just a personal preferance on teaching styles. I am breezing through the other course and will continue to upload projects on Andrei's course here very soon!</h6>
+
 <h1>Update 5/15/18</h1>
 <p>I will be skipping over, well.... A lot of the beginning JavaScript for 2 reasons.</p>
   <ol>
